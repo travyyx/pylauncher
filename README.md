@@ -4,7 +4,7 @@ A simple python program launcher.
 
 # Installation.
 
-You can use the windows executable in releases or download the source code and build it for your platform
+You can use the launcher.exe windows executable or download the source code and build it for your platform
 
 # Usage.
 
